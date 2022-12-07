@@ -1,0 +1,189 @@
+[
+  {
+    "id": 1,
+    "title": "ZOLIDRATE 10MG COMP. PELLI. SEC. B/20",
+    "price": 109.95,
+    "link": "https://pharmnet-dz.com/m-2192-zolidrate-10mg-comp-pelli-sec-b-20",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/2287.png",
+    "generic": "ARIPIPRAZOLE",
+    "commercial_name": "ZOLIFY"
+  },
+  {
+    "id": 2,
+    "title": "ZOLIFY 15MG COMP. B/30",
+    "price": 22.3,
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medic.png",
+    "link": "https://pharmnet-dz.com/m-4306-zolify-15mg-comp-b-30",
+    "generic": "ARIPIPRAZOLE",
+    "commercial_name": "ZOLIFY"
+  },
+  {
+    "id": 3,
+    "title": "ZOLIFY 20MG COMP B/30",
+    "price": 55.99,
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/2327.png",
+    "link": "https://pharmnet-dz.com/m-2327-zolify-20mg-comp-b-30",
+    "generic": "ARIPIPRAZOLE",
+    "commercial_name": "ZOLIFY"
+  },
+  {
+    "id": 4,
+    "title": "ZOLOFT 50MG  GLES. B/14",
+    "price": 15.99,
+    "link": "https://pharmnet-dz.com/m-2562-zoloft-50mg-gles-b-14-",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/2562.png",
+    "generic": "SERTRALINE CHLORHYDRATE EXPRIME EN SERTRALINE",
+    "commercial_name": "ZOLOFT"
+  },
+  {
+    "id": 5,
+    "title": "ZOMAX 40MG/ML** (200MG/5ML ET 300MG/7,5ML)** PDRE. P. SUSP. BUV. B/1FL. DE 15ML APRES RECONSTIT. (200MG/5ML)+UNE AMP. D'EAU PURIFIEE + UNE CUILLERE MESURE DE 5ML ET  B/1FL. DE 22,5ML APRES RECONSTIT.(300MG/7,5ML)+UNE AMP. D'EAU PURIFIEE + UNE CUILLERE MES",
+    "price": 695,
+    "link": "https://pharmnet-dz.com/m-805-zomax-40mg-ml--200mg-5ml-et-300mg-7-5ml--pdre-p-susp-buv-b-1fl-de-15ml-apres-reconstit--200mg-5ml-une-amp-d-eau-purifiee--une-cuillere-mesure-de-5ml-et-b-1fl-de-22-5ml-apres-reconstit-300mg-7-5ml-une-amp-d-eau-purifiee--une-cuillere-mes",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/805.png",
+    "generic": "AZITHROMYCINE DIHYDRATE",
+    "commercial_name": "ZOMAX"
+  },
+  {
+    "id": 6,
+    "title": "ZOMAX 500MG COMP. B/03 ",
+    "price": 168,
+    "link": "https://pharmnet-dz.com/m-840-zomax-500mg-comp-b-03-",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/840.png",
+    "generic": "AZITHROMYCINE DIHYDRATE EXPRIME EN AZITHROMYCINE",
+    "commercial_name": "ZOMAX"
+  },
+  {
+    "id": 7,
+    "title": "ZOMETA 0,8MG/ML (4MG/5ML) SOL. A DILUER PERF.IV B/01FL. DE 5ML",
+    "price": 9.99,    
+     "link": "https://pharmnet-dz.com/m-1083-zometa-0-8mg-ml-4mg-5ml-sol-a-diluer-perf-iv-b-01fl-de-5ml",
+            "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1083.png",
+            "generic": "ACIDE ZOLEDRONIQUE",
+            "commercial_name": "ZOMETA"
+    },
+  {
+    "id": 8,
+    "title": "ZOPHREN 2MG/ML (OU 4MG/2ML ET 8MG/4ML) SOL .INJ. B/5AMP  2ML ET 4ML",
+    "price": 10.99,
+    "link": "https://pharmnet-dz.com/m-2886-zophren-2mg-ml-ou-4mg-2ml-et-8mg-4ml-sol-inj-b-5amp-2ml-et-4ml",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medic.png",
+    "generic": "ONDANSETRON",
+    "commercial_name": "ZOPHREN"
+  },
+  {
+    "id": 9,
+    "title": "ZOSTINE 20MG COMP. PELLI. B/30",
+    "price": 64,
+    "link": "https://pharmnet-dz.com/m-1549-zostine-20mg-comp-pelli-b-30",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1549.png",
+    "generic": "SIMVASTATINE",
+    "commercial_name": "ZOSTINE"
+
+  },
+  {
+    "id": 10,
+    "title": "ZOSTINE 40MG COMP. PELLI. B/30",
+    "price": 109,
+    "link": "https://pharmnet-dz.com/m-1575-zostine-40mg-comp-pelli-b-30",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1575.png",
+    "generic": "SIMVASTATINE",
+    "commercial_name": "ZOSTINE"
+  },
+  {
+    "id": 11,
+    "title": "ZOTRIX 40MG/ML PDRE. P. SUSP. BUV. B/01 FL. DE 15ML DE SUSP. BUV. APRES RECONSTITUTION + 01 PIPETTE GRADUEE",
+    "price": 109,
+    "link": "https://pharmnet-dz.com/m-806-zotrix-40mg-ml-pdre-p-susp-buv-b-01-fl-de-15ml-de-susp-buv-apres-reconstitution--01-pipette-graduee",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medic.png",
+    "generic": "AZITHROMYCINE DIHYDRATE",
+    "commercial_name": "ZOTRIX"
+   
+  },
+  {
+    "id": 12,
+    "title": "ZOTRIX 500MG COMP. PELLI. SEC. B/03",
+    "price": 114,
+    "link": "https://pharmnet-dz.com/m-841-zotrix-500mg-comp-pelli-sec-b-03",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medic.png",
+    "generic": "AZITHROMYCINE DIHYDRATE EXPRIME EN AZITHROMYCINE",
+    "commercial_name": "ZOTRIX"
+   
+  },
+  {
+    "id": 13,
+    "title": "ZOTROP 50MG  GLES. B/30",
+    "price": 599,
+    "link": "https://pharmnet-dz.com/m-2563-zotrop-50mg-gles-b-30",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medic.png",
+    "generic": "SERTRALINE CHLORHYDRATE EXPRIME EN SERTRALINE",
+    "commercial_name": "ZOTROP"
+
+  },
+  {
+    "id": 14,
+    "title": "ZOVIRAX 0.03 PDE OPHT T/4,5 G",
+    "price": 99.99,
+    "link": "https://pharmnet-dz.com/m-1969-zovirax-0-03-pde-opht-t-4-5-g",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1969.png",
+    "generic": "ACICLOVIR",
+    "commercial_name": "ZOVIRAX"
+  },
+  {
+    "id": 15,
+    "title": "ZOVIRAX 250MG  PDRE.SOL.INJ. B/1FL",
+    "price": 56.99,
+    "link": "https://pharmnet-dz.com/m-422-zovirax-250mg-pdre-sol-inj-b-1fl",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medic.png",
+    "generic": "ACICLOVIR",
+    "commercial_name": "ZOVIRAX"
+   
+  },
+  {
+    "id": 16,
+    "title": "ZOXAN LP 4MG COMP. LP B/28",
+    "price": 29.95,
+    "link": "https://pharmnet-dz.com/m-1183-zoxan-lp-4mg-comp-lp-b-28",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medics/1183.png",
+    "generic": "DOXAZOSINE MESILATE EXPRIME EN DOXAZOSINE",
+    "commercial_name": "ZOXAN LP"
+   
+  },
+  {
+    "id": 17,
+    "title": "ZOXAN LP 8MG COMP. LP B/28",
+    "price": 39.99,
+    "link": "https://pharmnet-dz.com/m-1184-zoxan-lp-8mg-comp-lp-b-28",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medic.png",
+    "generic": "DOXAZOSINE MESILATE EXPRIME EN DOXAZOSINE",
+    "commercial_name": "ZOXAN LP"
+  },
+  {
+    "id": 18,
+    "title": "ZOXIN 1G** PDRE. SOL. INJ. IM/IV B/1FL DE PDRE.",
+    "price": 9.85,
+    "link": "https://pharmnet-dz.com/m-752-zoxin-1g--pdre-sol-inj-im-iv-b-1fl-de-pdre-",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medic.png",
+    "generic": "CEFOTAXIME SODIQUE",
+    "commercial_name": "ZOXIN"
+  },
+  {
+    "id": 19,
+    "title": "ZYDENA 100MG  COMP PELL SEC  B/2",
+    "price": 7.95,
+    "link": "https://pharmnet-dz.com/m-1235-zydena-100mg-comp-pell-sec-b-2",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medic.png",
+    "generic": "UDENAFIL",
+    "commercial_name": "ZYDENA"
+   
+  },
+  {
+    "id": 20,
+    "title": "ZYDENA 200MG COMP PELL SECABLE B/2",
+    "price": 12.99,
+    "link": "https://pharmnet-dz.com/m-4590-zydena-200mg-comp-pell-secable-b-2",
+    "img": "https://pharmnet-dz.com/ImageHandler.ashx?imageurl=/img/medic.png",
+    "generic": "UDENAFIL",
+    "commercial_name": "ZYDENA"
+  }
+]
